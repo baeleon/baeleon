@@ -3,9 +3,9 @@
         <img title="banner" src="./images/banner.png" style="width: 99%">
     </a>
 </div>
-<div>
-    <samp><h2>Links</h2></samp>
-</div>
+<p>
+    <samp>-Links</samp>
+</p>
 <div>
     <div>
         <a href="https://github.com/baeleon">
