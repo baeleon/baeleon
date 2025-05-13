@@ -1,20 +1,27 @@
-<a href="https://github.com/baeleon">
-    <img title="banner" src="./images/banner.png" style="">
-</a>[//]: # (links)
-<div style="margin-top: -20px">
-    <h2>Links</h2>
-    <div style="display: grid; grid-template-columns: auto auto auto auto; gap: 10px">
+<div>
+    <a href="https://github.com/baeleon">
+        <img title="banner" src="./images/banner.png" style="">
+    </a>
+</div>
+<div>
+    <div>
+        # links
+    </div>
+    <div>
         <a href="https://github.com/baeleon">
-        <img title="banner" src="./images/links/github.png" style="width: 100%">
+            <img title="banner" src="./images/links/github.png" style="width: 23.3%">
         </a>
+        &nbsp
         <a href="https://github.com/baeleon">
-            <img title="banner" src="./images/links/github.png" style="width: 100%">
+            <img title="banner" src="./images/links/github.png" style="width: 23.3%">
         </a>
+        &nbsp
         <a href="https://github.com/baeleon">
-            <img title="banner" src="./images/links/github.png" style="width: 100%">
+            <img title="banner" src="./images/links/github.png" style="width: 23.3%">
         </a>
+        &nbsp
         <a href="https://github.com/baeleon">
-            <img title="banner" src="./images/links/github.png" style="width: 100%">
+            <img title="banner" src="./images/links/github.png" style="width: 23.3%">
         </a>
     </div>
 </div>
