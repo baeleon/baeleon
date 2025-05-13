@@ -5,11 +5,8 @@
 </div>
 &nbsp
 <div>
-    <div>
-        # links
-    </div>
-    &nbsp
-    <div align="center"> 
+    <samp>#links</samp>
+    <div> 
         <a href="https://github.com/baeleon">
             <img title="banner" src="./images/links/github.png" style="width: 23%">
         </a>
