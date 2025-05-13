@@ -3,10 +3,8 @@
         <img title="banner" src="./images/banner.png" style="width: 99%">
     </a>
 </div>
-&nbsp
 <div>
-    &nbsp
-    <samp>#links</samp>
+    <samp><h2>Links</h2></samp>
 </div>
 <div>
     <div align="center">
