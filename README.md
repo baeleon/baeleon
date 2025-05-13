@@ -3,6 +3,7 @@
         <img title="banner" src="./images/banner.png" style="width: 99%">
     </a>
 </div>
+&nbsp
 <p>
     <samp>-Links</samp>
 </p>
