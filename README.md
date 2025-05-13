@@ -7,7 +7,7 @@
     <samp><h2>Links</h2></samp>
 </div>
 <div>
-    <div align="center">
+    <div>
         <a href="https://github.com/baeleon">
             <img title="banner" src="./images/links/github.png" style="width: 22%">
         </a>
